@@ -16,7 +16,18 @@ Create realistic 3D FlipBook from PDF or images using jQuery powered DearFlip pl
   
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This is a non-commercial Lite Version. You are free to use for only personal non-profit use, testing/trial not otherwise.
+You are free to:
+
+**Share** — copy and redistribute the material in any medium or format
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+**Under the following terms:**
+1. **Attribution** — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+2. **NonCommercial** — You may not use the material for commercial purposes .
+3. **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+4. **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+**In Normal Words:** This is a non-commercial Lite Version. You are free to use for only personal non-profit use, testing/trial not otherwise.
 For commercial versions follow the links below:
 [jQuery/JS Flipbook](https://js.dearflip.com/) or 
 [WordPress Flipbook](https://wordpress.dearflip.com/)
